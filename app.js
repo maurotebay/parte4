@@ -69,3 +69,8 @@ function ejercicio9(){
     var nav_bar=document.getElementById("nav-bar");
     nav_bar.appendChild(nodoLi);
 }
+
+function ejercicio10(){
+    var location=window.location;
+    console.log(location);
+}
