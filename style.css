@@ -1,0 +1,18 @@
+#practica{
+    width: 40%;
+    height: 50%;
+    margin: 2% auto;
+    text-align: center;
+    background-color: #000000;
+}
+
+h3 {
+    margin-top: 2%;
+    color: #fff;
+}
+
+button{
+    width: 100px;
+    height: 25px;
+    margin: 1% 20%;
+}
